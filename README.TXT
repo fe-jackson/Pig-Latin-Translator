@@ -11,10 +11,10 @@ DATE: April 29, 2021
 AUTHOR: Fe Jackson
 
 INSTRUCTIONS: 
-     Compile the program and run the ReadAndTranslate class. You can pass a String 
-with a text file name to main so it knows to translate that file, or you can start the 
-program without passing any Strings to itand the program will prompt you to give it 
-text to translate. 
+     Compile PigLatinTranslator.java and ReadAndTranslate.java. Then run the main 
+function in the ReadAndTranslate class. You can pass a String with a text file name to 
+main so it knows to translate that file, or you can start the program without passing 
+any Strings to it and the program will prompt you to give it text to translate. 
      After each translation, the program will ask you if you want to translate 
 anything else. If you type "yes", it'll ask you to type the text that you want to 
 translate. If you type "no", then the program will end.
